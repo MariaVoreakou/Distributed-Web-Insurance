@@ -1,0 +1,8 @@
+.grey-background-safe{
+    width:1366px;
+    height:4000px;
+    background:#C2C2C2;
+    padding:10px;
+    background-image: url("../img/back-web.png"); 
+}
+

@@ -1,0 +1,296 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jan 7, 2017, 5:15:04 PM
+    Author     : Maria
+*/
+.grey-background{
+    width:1366px;
+    height:830px;
+    background:#C2C2C2;
+    padding:10px;
+    background-image: url("../img/back.png"); 
+}
+
+.header_outer{
+    width:98%;
+    margin-left:1%;
+    padding-top:10px;
+    box-shadow: 3px 3px 3px #888;
+    -moz-box-shadow: 3px 3px 3px #888;
+    -webkit-box-shadow: 3px 3px 3px #888;
+    -o-box-shadow: 3px 3px 3px #888;
+    background:#AFAFAF;
+    border-radius:20px;
+    height:150px;
+}
+.header_left{
+    width:38%;
+    margin-left:1.5%;
+    float:left;
+}
+.header_right{
+    width:58%;
+    float:left;
+    margin-right:1.5%;
+}
+.header_title{
+    vertical-align:middle;
+    color:#285A82;
+    font-weight:bold;
+    font-size:40px;
+    text-shadow: 3px 3px 3px #888;
+    -moz-text-shadow: 3px 3px 3px #888;
+    -webkit-text-shadow: 3px 3px 3px #888;
+    -o-text-shadow: 3px 3px 3px #888;
+}
+.login-form-outer{
+    background:rgba(255,255,255, 0.2);
+    width: 50%;
+    height: 330px;
+    border-radius:10px;
+    margin-left: 25%;
+    padding: 1px;
+    margin-top: 2%;
+}
+.login-form{
+    padding:5px;
+    width:500px;
+    height:200px;
+    margin-top:8%;
+    background:#AFAFAF;
+    margin-left: 15%;
+    border-radius:10px;
+    box-shadow: 3px 3px 3px #888;
+    -moz-box-shadow: 3px 3px 3px #888;
+    -webkit-box-shadow: 3px 3px 3px #888;
+    -o-box-shadow: 3px 3px 3px #888;
+}
+
+.intruction-p{
+    font-family: sans-serif;
+    font-size:20px;
+    text-align:center;
+}
+
+
+
+.footer_outer{
+    width:98%;
+    margin-left:1%;
+    margin-top: 175px;
+    box-shadow: 3px 3px 3px #888;
+    -moz-box-shadow: 3px 3px 3px #888;
+    -webkit-box-shadow: 3px 3px 3px #888;
+    -o-box-shadow: 3px 3px 3px #888;
+    background:#AFAFAF;
+    border-radius:20px;
+    height:70px;
+}
+
+.menu-outer{
+    background:rgba(255,255,255, 0.2);
+    width: 50%;
+    height: 330px;
+    border-radius:10px;
+    margin-left: 25%;
+    padding: 1px;
+    margin-top: 2%;
+}
+
+.menu-inner{
+    padding:5px;
+    width:500px;
+    height:200px;
+    margin-top:8%;
+    background:#AFAFAF;
+    margin-left: 15%;
+    border-radius:10px;
+    box-shadow: 3px 3px 3px #888;
+    -moz-box-shadow: 3px 3px 3px #888;
+    -webkit-box-shadow: 3px 3px 3px #888;
+    -o-box-shadow: 3px 3px 3px #888;
+}
+.a-style{
+    font-size:16px;
+    font-weight:bold;
+}
+.a-style:link, .a-style:visited{
+    color:#285A82;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+.a-style:hover, .a-style:active{
+    background-color:#595959;
+    color:#fff;
+    border-radius:10px; 
+}
+.li-style{
+    margin-left:20%;
+    line-height:30px;
+}
+.menu-title{
+    font-size:22px;
+    color:#fff;
+    font-weight:bold;
+    text-shadow: 3px 3px 3px #888;
+    -moz-text-shadow: 3px 3px 3px #888;
+    -webkit-text-shadow: 3px 3px 3px #888;
+    -o-text-shadow: 3px 3px 3px #888;
+}
+a:link {
+    text-decoration: none;
+}
+.sidebar{
+    width:28%;
+    float:left;
+    margin-left:1.5%;
+    background:rgba(255,255,255, 0.2);
+    height: 560px;
+    border-radius:10px;
+    padding: 1px;
+    margin-top: 2%; 
+}
+.div-inner{
+    padding: 2px;
+    width:90%;
+    margin-left:3.5%;
+    height:520px;
+    margin-top:20px;
+    background:#AFAFAF;
+    border-radius:10px;
+    box-shadow: 3px 3px 3px #888;
+    -moz-box-shadow: 3px 3px 3px #888;
+    -webkit-box-shadow: 3px 3px 3px #888;
+    -o-box-shadow: 3px 3px 3px #888;
+}
+.form-customer{
+    width:68%;
+    margin-left:1.5%;
+    float:left;
+    background:rgba(255,255,255, 0.2);
+    height: 560px;
+    border-radius:10px;
+    padding: 1px;
+    margin-top: 2%;
+}
+
+.li-style-s{
+    margin-top:10%;
+    line-height:30px;
+}
+.half_48{
+    width:48%;
+    float:left;
+    margin-left:1%;
+}
+.clear_both{
+    clear:both;
+}
+
+.p-style-form{
+    font-size:14px;
+    font-family:arial;
+    font-weight:bold;
+    line-height: 23px;
+}
+.p-style-form-title{
+    font-size:18px;
+    font-family:arial;
+    font-weight:bold;
+    text-align:center;
+    text-shadow: 3px 3px 3px #888;
+    -moz-text-shadow: 3px 3px 3px #888;
+    -webkit-text-shadow: 3px 3px 3px #888;
+    -o-text-shadow: 3px 3px 3px #888;
+}
+.text-right{
+    text-align:right;
+    line-height: 23px;
+}
+
+.table-comp{
+    width:750px;
+}
+.table-comp th{
+    color:#fff;
+    text-shadow:1px 1px 1px #888;
+    -moz-text-shadow:1px 1px 1px #888;
+    -webkit-text-shadow:1px 1px 1px #888;
+    -o-text-shadow:1px 1px 1px #888;
+    font-weight:bold;
+    background:#285A82;
+    border:solid 2px #5797CB;
+
+}
+table.center {
+    margin-left:auto; 
+    margin-right:auto;
+}
+
+.table-comp tr td{
+    border:solid 2px #5797CB;
+    background:rgba(255,255,255,0.4);
+
+}
+
+.table-comp tr:nth-child(even) {
+    background: #B9D3E9;
+}
+
+
+.div-welcome-user{
+    padding: 5px 5px;
+    height: 50px;
+
+    margin-top: 10px;
+    width: 50%;
+    margin-left: 25%;
+    background: rgba(255,255,255, 0.2);
+    border-radius: 10px;
+    font-size: 18px;
+    color: #fff;
+    font-weight: bold;
+    text-shadow: 2px 2px 4px #888;
+    -moz-text-shadow: 2px 2px 2px #888;
+    -webkit-text-shadow: 2px 2px 2px #888;
+    -o-text-shadow: 2px 2px 2px #888;
+}
+.div-welcome-user-pages{
+    padding: 5px;
+    height: 50px;
+    margin-top: 10px;
+    width: 97.5%;
+    margin-left: 1%;
+    background: rgba(255,255,255, 0.2);
+    border-radius: 10px;
+    font-size: 18px;
+    color: #fff;
+    font-weight: bold;
+    text-shadow: 2px 2px 2px #888;
+    -moz-text-shadow: 2px 2px 2px #888;
+    -webkit-text-shadow: 2px 2px 2px #888;
+    -o-text-shadow: 2px 2px 2px #888;
+}
+
+.a-style-logout{
+    font-size:16px;
+    font-weight:bold;
+}
+.a-style-logout:link, .a-style-logout:visited{
+    color:#fff;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+.a-style-logout:hover, .a-style-logout:active{
+    background-color:#AFAFAF;
+    color:#285A82;
+    border-radius:10px; 
+}
