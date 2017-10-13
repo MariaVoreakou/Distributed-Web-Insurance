@@ -14,10 +14,10 @@
     <class>Entities.EmplDepart</class>
     <exclude-unlisted-classes>false</exclude-unlisted-classes>
     <properties>
-      <property name="javax.persistence.jdbc.url" value="jdbc:mysql://83.212.105.20:3306/214123?zeroDateTimeBehavior=convertToNull"/>
-      <property name="javax.persistence.jdbc.user" value="214123"/>
+      <property name="javax.persistence.jdbc.url" value="jdbc:mysql://URL/USERNAME?zeroDateTimeBehavior=convertToNull"/>
+      <property name="javax.persistence.jdbc.user" value="USERNAME"/>
       <property name="javax.persistence.jdbc.driver" value="com.mysql.jdbc.Driver"/>
-      <property name="javax.persistence.jdbc.password" value="zzr3618!"/>
+      <property name="javax.persistence.jdbc.password" value="PASSWORD"/>
     </properties>
   </persistence-unit>
 </persistence>
